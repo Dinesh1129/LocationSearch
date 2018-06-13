@@ -35,7 +35,3 @@
 1. **Alamofire**  and **AlamofireObjectMapper** to make REST service
 2. **ObjectMapper** to convert resposne JSON into data model and vice versa
 3. **OHHTTPStubs** to stub the HTTPS response for unit testing
-
-### Following items are not delivered due to time constraint
-1. Could not implement the map zoom functionality properly
-2. Faced some issue with implementinng the unit tests for **LocationStoreManager** class.
